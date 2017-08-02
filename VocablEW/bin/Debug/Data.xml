@@ -10,176 +10,164 @@
       <rusWord word="распознавать" />
     </Word>
     <Word id="2">
-      <engWord word="determine" />
-      <rusWord word="определять" />
-    </Word>
-    <Word id="3">
       <engWord word="tentative" />
       <rusWord word="пробный" />
     </Word>
-    <Word id="4">
+    <Word id="3">
       <engWord word="continual" />
       <rusWord word="постоянный" />
     </Word>
-    <Word id="5">
+    <Word id="4">
       <engWord word="significant" />
       <rusWord word="значительный" />
     </Word>
-    <Word id="6">
+    <Word id="5">
       <engWord word="assure" />
       <rusWord word="уверять" />
     </Word>
-    <Word id="7">
-      <engWord word="approval" />
-      <rusWord word="утверждение" />
-    </Word>
-    <Word id="8">
-      <engWord word="favor" />
-      <rusWord word="одолжение" />
-    </Word>
-    <Word id="9">
+    <Word id="6">
       <engWord word="deliver" />
       <rusWord word="доставлять" />
     </Word>
-    <Word id="10">
+    <Word id="7">
       <engWord word="presence" />
       <rusWord word="присутствие" />
     </Word>
-    <Word id="11">
+    <Word id="8">
       <engWord word="restrain" />
       <rusWord word="сдерживать" />
     </Word>
-    <Word id="12">
+    <Word id="9">
       <engWord word="betray" />
       <rusWord word="предавать" />
     </Word>
-    <Word id="13">
+    <Word id="10">
       <engWord word="ambush" />
       <rusWord word="засада" />
     </Word>
-    <Word id="14">
-      <engWord word="smirk" />
-      <rusWord word="ухмылка" />
-    </Word>
-    <Word id="15">
+    <Word id="11">
       <engWord word="immediate" />
       <rusWord word="немедленно" />
     </Word>
-    <Word id="16">
+    <Word id="12">
       <engWord word="apprehension" />
       <rusWord word="опасение" />
     </Word>
-    <Word id="17">
+    <Word id="13">
       <engWord word="reinterpret" />
       <rusWord word="переосмысливать" />
     </Word>
-    <Word id="18">
+    <Word id="14">
       <engWord word="emend" />
       <rusWord word="исправлять" />
     </Word>
-    <Word id="19">
+    <Word id="15">
       <engWord word="revise" />
       <rusWord word="проверять" />
     </Word>
-    <Word id="20">
+    <Word id="16">
       <engWord word="persistence" />
       <rusWord word="настойчивость" />
     </Word>
-    <Word id="21">
+    <Word id="17">
       <engWord word="immense" />
       <rusWord word="огромный" />
     </Word>
-    <Word id="22">
+    <Word id="18">
       <engWord word="refine" />
       <rusWord word="улучшать" />
     </Word>
-    <Word id="23">
+    <Word id="19">
       <engWord word="irritate" />
       <rusWord word="раздражать" />
     </Word>
-    <Word id="24">
+    <Word id="20">
       <engWord word="arrogant" />
       <rusWord word="высокомерный" />
     </Word>
-    <Word id="25">
+    <Word id="21">
       <engWord word="essential" />
       <rusWord word="существенный" />
     </Word>
-    <Word id="26">
+    <Word id="22">
       <engWord word="transition" />
       <rusWord word="переход" />
     </Word>
-    <Word id="27">
+    <Word id="23">
       <engWord word="exalt" />
       <rusWord word="возвышать" />
     </Word>
-    <Word id="28">
+    <Word id="24">
       <engWord word="compile" />
       <rusWord word="составлять" />
     </Word>
-    <Word id="29">
+    <Word id="25">
       <engWord word="moderate" />
       <rusWord word="небольшой" />
     </Word>
-    <Word id="30">
+    <Word id="26">
       <engWord word="attractive" />
       <rusWord word="привлекательный" />
     </Word>
-    <Word id="31">
+    <Word id="27">
       <engWord word="acknowledgement" />
       <rusWord word="подтверждение" />
     </Word>
-    <Word id="32">
+    <Word id="28">
       <engWord word="consist" />
       <rusWord word="состоять" />
     </Word>
-    <Word id="33">
+    <Word id="29">
       <engWord word="supply" />
       <rusWord word="поставка" />
     </Word>
-    <Word id="34">
+    <Word id="30">
       <engWord word="embed" />
       <rusWord word="встраивать" />
     </Word>
-    <Word id="35">
+    <Word id="31">
       <engWord word="worthy" />
       <rusWord word="достойный" />
     </Word>
-    <Word id="36">
+    <Word id="32">
       <engWord word="appropriate" />
       <rusWord word="подходящий" />
     </Word>
-    <Word id="37">
+    <Word id="33">
       <engWord word="remote" />
       <rusWord word="удалённый" />
     </Word>
-    <Word id="38">
+    <Word id="34">
       <engWord word="scope" />
       <rusWord word="объём" />
     </Word>
-    <Word id="39">
+    <Word id="35">
       <engWord word="adjust" />
       <rusWord word="регулировать" />
     </Word>
-    <Word id="40">
+    <Word id="36">
       <engWord word="handy" />
       <rusWord word="удобный" />
     </Word>
-    <Word id="41">
+    <Word id="37">
       <engWord word="template" />
       <rusWord word="шаблон" />
     </Word>
-    <Word id="42">
+    <Word id="38">
       <engWord word="deserve" />
       <rusWord word="заслуживать" />
     </Word>
-    <Word id="43">
+    <Word id="39">
       <engWord word="inspire" />
       <rusWord word="вдохновлять" />
     </Word>
-    <Word id="44">
+    <Word id="40">
       <engWord word="reckless" />
       <rusWord word="опрометчивый" />
+    </Word>
+    <Word id="41">
+      <engWord word="conversion" />
+      <rusWord word="преобразование" />
     </Word>
   </StudyingWords>
   <StudiedWords>
@@ -1042,6 +1030,22 @@
     <Word id="214" count="0">
       <engWord word="confront" />
       <rusWord word="противостоять" />
+    </Word>
+    <Word id="215" count="0">
+      <engWord word="approval" />
+      <rusWord word="утверждение" />
+    </Word>
+    <Word id="216" count="0">
+      <engWord word="determine" />
+      <rusWord word="определять" />
+    </Word>
+    <Word id="217" count="0">
+      <engWord word="smirk" />
+      <rusWord word="ухмылка" />
+    </Word>
+    <Word id="218" count="0">
+      <engWord word="favor" />
+      <rusWord word="одолжение" />
     </Word>
   </StudiedWords>
 </Words>

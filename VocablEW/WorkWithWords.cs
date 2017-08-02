@@ -44,7 +44,7 @@ namespace VocablEW
         public void openWeb(ListOfWords list)
         {
             Process.Start(
-                string.Format("https://translate.google.ru/#en/ru/{0}", data.getEngWord(id, list)));
+                string.Format("http://wooordhunt.ru/word/{0}", data.getEngWord(id, list)));
         }
     }
 }
